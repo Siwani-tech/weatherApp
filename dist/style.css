@@ -1,0 +1,33 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(255, 249, 249);
+}
+
+
+
+
+#search-container{
+    display: flex;
+    padding: 7px 20px;
+}
+
+
+#search-input{
+    margin: 5px;
+    padding: 5px 20px;
+    border-radius: 15px;
+    border-color: aqua;
+}
+
+#search-button{
+    margin: 4px 10px;
+    border-radius: 10px;
+    padding: 5px;
+    background-color: aquamarine;
+}
+
+button:hover{
+    cursor: pointer;
+}
